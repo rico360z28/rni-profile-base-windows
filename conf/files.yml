@@ -17,5 +17,5 @@
 
 base_os_files:
   - url: https://google.com
-    filename: winpe_10.iso
+    filename: win10pe.iso
     type: iso
